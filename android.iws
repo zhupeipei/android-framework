@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fa86814-6d4d-401f-a254-0172055b2365" name="Changes" comment="[feat] init android framework">
-      <change beforePath="$PROJECT_DIR$/android.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/android.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android.iws" beforeDir="false" afterPath="$PROJECT_DIR$/android.iws" afterDir="false" />
-    </list>
+    <list default="true" id="5fa86814-6d4d-401f-a254-0172055b2365" name="Changes" comment="[feat] init android framework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633195331020</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[feat] init android framework">
+      <created>1633195437134</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633195437134</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,10 +113,10 @@
       <path value="$PROJECT_DIR$/development" />
       <path value="$PROJECT_DIR$/frameworks/base" />
     </ignored-roots>
-    <MESSAGE value="[feat] init android framework" />
     <MESSAGE value="[feat] init android framework - build" />
     <MESSAGE value="[feat] init android framework - development" />
     <MESSAGE value="[feat] init android framework - frameworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat] init android framework - frameworks" />
+    <MESSAGE value="[feat] init android framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] init android framework" />
   </component>
 </project>
