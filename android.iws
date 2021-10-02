@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fa86814-6d4d-401f-a254-0172055b2365" name="Changes" comment="" />
+    <list default="true" id="5fa86814-6d4d-401f-a254-0172055b2365" name="Changes" comment="[feat] init android framework">
+      <change beforePath="$PROJECT_DIR$/android.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/android.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android.iws" beforeDir="false" afterPath="$PROJECT_DIR$/android.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frameworks/base" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -49,6 +52,35 @@
       <option name="presentableId" value="Default" />
       <updated>1633193183460</updated>
     </task>
+    <task id="LOCAL-00001" summary="[feat] init android framework">
+      <created>1633194341150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633194341151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[feat] init android framework - build">
+      <created>1633194636160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633194636160</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[feat] init android framework - development">
+      <created>1633195124091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633195124091</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[feat] init android framework - frameworks">
+      <created>1633195331020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633195331020</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,8 +101,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/build" />
+      <path value="$PROJECT_DIR$/development" />
+      <path value="$PROJECT_DIR$/frameworks/base" />
     </ignored-roots>
+    <MESSAGE value="[feat] init android framework" />
+    <MESSAGE value="[feat] init android framework - build" />
+    <MESSAGE value="[feat] init android framework - development" />
+    <MESSAGE value="[feat] init android framework - frameworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] init android framework - frameworks" />
   </component>
 </project>
